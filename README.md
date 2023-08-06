@@ -1,2 +1,2 @@
 # ChatBot
-Computer programmes known as chatbots are created to mimic conversations with human users. Natural language processing (NLP) and artificial intelligence (AI) technologies enable them to interpret and respond to human language in a natural way.
+A chatbot is an artificial intelligence (AI) or computer programme that uses natural language processing to replicate human dialogue and communicate with users. It is a kind of conversational agent that can be used for a variety of tasks, including task automation, information retrieval, customer assistance, and entertainment.
